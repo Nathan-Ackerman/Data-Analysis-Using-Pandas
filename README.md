@@ -1,1 +1,1 @@
-# Data-Analysis-Using-Pandas
+# This repository is about using pandas to analyze car sales and determine which car out of a given list is the best to buy, and also using pandas to analyze the price and quantity of avocados sold over time.
